@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MotoCare</string>
+    <string name="title_presentation">MotoCare</string>
+    <string name="title_moto">Moto</string>
+    <string name="title_care">Care</string>
+    <string name="subtitle_presentation">Gestión de Mantenimiento Preventivo</string>
+    <string name="desc_presentation">Monitorea y agenda los servicios mecánicos para mantener tu motocicleta en óptimas condiciones de seguridad.</string>
+    <string name="btn_start">Iniciar Registro</string>
+    <string name="btn_exit">Salir de la Aplicación</string>
+    <string name="btn_back">Volver</string>
+
+    <string name="title_form">Inscripción de Mantenimiento</string>
+    <string name="subtitle_form">Ingresa los datos del vehículo y selecciona los servicios</string>
+    <string name="label_owner">Nombre del Propietario</string>
+    <string name="hint_owner">Ej. Carlos Mendoza</string>
+    <string name="label_plate">Placa de la Motocicleta</string>
+    <string name="hint_plate">Ej. ABC-12D</string>
+    <string name="label_mileage">Kilometraje Actual (km)</string>
+    <string name="hint_mileage">Ej. 15400</string>
+
+    <string name="label_moto_type">Tipo de Motocicleta</string>
+    <string name="type_scooter">Scooter / Automática</string>
+    <string name="type_urban">Urbana / Calle (125cc - 250cc)</string>
+    <string name="type_adventure">Enduro / Touring (Alto Cilindraje)</string>
+
+    <string name="label_services">Servicios Requeridos</string>
+    <string name="service_oil">Cambio de Aceite y Filtro</string>
+    <string name="service_brakes">Revisión y Ajuste de Frenos</string>
+    <string name="service_chain">Calibración y Lubricación de Cadena</string>
+    <string name="service_tires">Inspección de Presión y Llantas</string>
+
+    <string name="btn_process">Procesar Inscripción</string>
+
+    <string name="title_summary">¡Inscripción Exitosa!</string>
+    <string name="subtitle_summary">Resumen del servicio programado</string>
+    <string name="summary_owner">Propietario:</string>
+    <string name="summary_plate">Placa:</string>
+    <string name="summary_mileage">Kilometraje:</string>
+    <string name="summary_type">Categoría:</string>
+    <string name="summary_services">Servicios Solicitados:</string>
+
+    <string name="btn_new_registration">Nuevo Registro</string>
+
+    <string name="err_empty_fields">Por favor completa todos los campos de texto.</string>
+    <string name="err_no_type">Selecciona el tipo de motocicleta.</string>
+    <string name="err_no_services">Selecciona al menos un servicio técnico.</string>
+</resources>
